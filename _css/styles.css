@@ -915,7 +915,7 @@ Images Backgrounds
 
 /* line 54, ../sass/inc/shortcodes.scss */
 .av-slide-02-bg {
-  background-color: green;
+  background: url("../_images/bg/photo.jpg") no-repeat;
   background-size: cover;
 }
 
