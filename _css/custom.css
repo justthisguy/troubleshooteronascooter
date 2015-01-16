@@ -29,3 +29,17 @@ h1,h2.no-margin {
 .move-up-100 {
   top: -100px;
 }
+
+.icon {
+	width: 10%;
+	padding: 10px;
+}
+
+.icons{
+	text-align: center;
+}
+
+.contact-title{
+	font-weight: 300;
+	font-size: 2.1em;
+}
